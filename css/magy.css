@@ -180,10 +180,9 @@ background-image:url("../img/66.jpg") ;
     height: 20%;
     margin: auto;
   }
-/*
+
   @media(max-width: 1080px) {
 
-    .maid,
     .home {
 
       width: 1080;
@@ -193,7 +192,6 @@ background-image:url("../img/66.jpg") ;
 
   @media(max-width: 950px) {
 
-    .maid,
     .home {
 
       width: 950px;
@@ -203,7 +201,6 @@ background-image:url("../img/66.jpg") ;
 
   @media(max-width: 750px) {
 
-    .maid,
     .home {
 
       width: 750;
@@ -213,7 +210,6 @@ background-image:url("../img/66.jpg") ;
 
   @media(max-width: 450px) {
 
-    .maid,
     .home {
 
       width: 450px;
@@ -223,7 +219,6 @@ background-image:url("../img/66.jpg") ;
 
   @media(max-width: 360px) {
 
-    .maid,
     .home {
 
       width: 360px;
@@ -233,7 +228,6 @@ background-image:url("../img/66.jpg") ;
 
   @media(max-width: 280x) {
 
-    .maid,
     .home {
 
       width: 280px;
@@ -241,7 +235,7 @@ background-image:url("../img/66.jpg") ;
     }
   }
 
-*/
+
   @media (max-width :750px) {
 
     .home {
